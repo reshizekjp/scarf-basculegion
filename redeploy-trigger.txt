@@ -1,1 +1,3 @@
 redeploy 2026-07-04: fresh run to recover from transient Pages deploy failure (#10)
+
+retry 00:20 JST
